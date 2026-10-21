@@ -161,7 +161,7 @@ Each task contains the following fields:
 
 **YOUR NAME**
 
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- GitHub: [@Artem]([https://github.com/YOUR-USERNAME](https://github.com/movsisiannartem-hash))
 
 ---
 

@@ -1,0 +1,8 @@
+[project]
+name = "task-trecker"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "path>=17.1.1",
+    "pathlib>=1.0.1",
+]
