@@ -29,7 +29,7 @@ Task Tracker allows users to create, update, delete, and track tasks directly fr
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/task-tracker.git
+git clone https://github.com/movsisiannartem-hash/task-tracker.git
 ```
 
 ### 2. Navigate to the project directory
